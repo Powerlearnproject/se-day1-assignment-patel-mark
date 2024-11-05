@@ -18,14 +18,17 @@ Introduction of Object-Oriented Programming (OOP) (1980s): OOP allowed developer
 Agile Methodology (2001): The Agile Manifesto introduced principles to improve software development flexibility and responsiveness, marking a shift toward iterative processes that prioritize customer collaboration and rapid feedback.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Phases of the Software Development Life Cycle (SDLC)
 
 Planning and Requirement Analysis: Defining project goals, objectives, and requirements to create a roadmap.
 
 Design: Creating a blueprint of the system’s architecture and components.
+
 Implementation (Coding): Developing the software based on the design specifications.
+
 Testing: Verifying that the software meets quality standards and is free of defects.
+
 Deployment: Releasing the product to users and ensuring it operates as intended.
+
 Maintenance: Ongoing support to update, fix bugs, and enhance the software as needed.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
